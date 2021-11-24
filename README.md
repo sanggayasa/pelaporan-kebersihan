@@ -12,3 +12,4 @@ installasi webpack dan configuration
 - npm install eslint
 - npm install regenerator-runtime
 - npx eslint --init
+saya ubah
