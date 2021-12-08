@@ -15,7 +15,7 @@ installasi webpack dan configuration
 
 ===============================================================
 
-npm i @popperjs/core
-npm install webpack-dev-server --save-dev
-npm install
+- npm i @popperjs/core
+- npm install webpack-dev-server --save-dev
+- npm install
 
