@@ -13,3 +13,9 @@ installasi webpack dan configuration
 - npm install regenerator-runtime
 - npx eslint --init
 
+===============================================================
+
+npm i @popperjs/core
+npm install webpack-dev-server --save-dev
+npm install
+
