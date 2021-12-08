@@ -1,0 +1,22 @@
+{
+  "data_laporan": [
+    {
+      "lokasi": "Bandung",
+      "waktu": "20 Feb 2020 20:00",
+      "deskripsi": "Jalan utama penuh dengan sampah dedaunan",
+      "status": 0
+    },
+    {
+      "lokasi": "Cimahi",
+      "waktu": "21 Feb 2020 20:00",
+      "deskripsi": "Jalan utama penuh dengan sampah dedaunan",
+      "status": 1
+    },
+    {
+      "lokasi": "Cianjur",
+      "waktu": "21 Feb 2020 20:00",
+      "deskripsi": "Jalan utama penuh dengan sampah dedaunan",
+      "status": 1
+    }
+  ]
+}
