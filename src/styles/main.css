@@ -4,12 +4,12 @@ body {
 }
 
 nav.bg-light {
-  background: #fff !important;
+  background-image: linear-gradient(to right, #134e5e, #71b280) !important;
 }
 
 .navbar-light .navbar-nav .nav-link.active,
 span.navbar-brand {
-  color: rgba(var(--bs-success-rgb)) !important;
+  color: white !important;
 }
 
 nav.navbar {
@@ -85,4 +85,8 @@ div.card#location-check .card-body {
   margin-left: auto;
   margin-right: auto;
   border-radius: 20px;
+}
+
+.footer {
+  background-image: linear-gradient(to right, #134e5e, #71b280) !important;
 }
