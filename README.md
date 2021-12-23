@@ -19,3 +19,7 @@ installasi webpack dan configuration
 - npm install webpack-dev-server --save-dev
 - npm install
 
+
+# Bersih App 
+Bersih Apps adalah sebuah aplikasi website yang memberikan kesempatan bagi user untuk melakukan pelaporan kebersihan di lingkungan masyarakat dan juga memberikan solusi kepada petugas lapangan agar dapat melaporkan pekerjaan yang telah dilakukan.
+
